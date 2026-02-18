@@ -3,7 +3,7 @@
 declare var CryptoJS: any;
 
 // Constants - Verbatim from HTML
-export const RENDER_PLAYER = "https://lennisterrwa.vercel.app/player?url=";
+export const RENDER_PLAYER = "https://rwaplayer.vercel.app/player?url=";
 export const RENDER_PDF = "https://lennisterrwa.vercel.app/pdf-viewer?url=";
 export const WA_LINK = "https://whatsapp.com/channel/0029VbAvDSX0QeahEg4kkE3U";
 export const API_URL = "https://rwawebfree.vercel.app/api/proxy";
